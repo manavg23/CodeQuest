@@ -1,7 +1,7 @@
-### Chat-with-Your-Code
+### CodeQuest
 
 **Overview**  
-Chat-with-Your-Code is an interactive chatbot application that lets users engage with their codebase using Google Gemini. Developed with Streamlit, it provides an intuitive chat interface for querying and exploring code.
+CodeQuest is an interactive chatbot application that lets users engage with their codebase using Google Gemini. Developed with Streamlit, it provides an intuitive chat interface for querying and exploring code.
 
 **Features**  
 - **GitHub Integration**: Users can input their Google Gemini API key and the name of their GitHub repository. The repository is then cloned, segmented, and embedded for interactive use.
